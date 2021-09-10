@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Nanum+Gothic&display=swap');
+
+h1 {
+	font-family: 'Black Han Sans';
+	font-size : 5px; 
+}
+
+p {
+	font-family: 'Nanum Gothic', sans-serif;
+ 	font-size : 15px; 
+}
